@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "BF6F5010-5E9B-415D-AF3C-15F77C9F2AF3"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "7ABDBBBE-2016-4A35-A6F8-94074DBE612A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "307127D2-125D-4F80-8C67-DDC280CDE2F1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WanIOS/TagItemVC.m"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "TagItemVC()"
+            landmarkType = "2">
+            <Locations>
+               <Location
+                  uuid = "307127D2-125D-4F80-8C67-DDC280CDE2F1 - 35363942a5a4eea3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TagItemVC model]"
+                  moduleName = "WanIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenfeiren/Documents/xcode_project/WanIOS/WanIOS/TagItemVC.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "307127D2-125D-4F80-8C67-DDC280CDE2F1 - 664f26f0d0a5ab19"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[TagItemVC setModel:]"
+                  moduleName = "WanIOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/zhenfeiren/Documents/xcode_project/WanIOS/WanIOS/TagItemVC.m"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "17"
+                  endingLineNumber = "17"
+                  offsetFromSymbolStart = "43">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
